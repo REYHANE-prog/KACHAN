@@ -12,6 +12,10 @@
     background-position: bottom;
 }
 
+.m-width {
+    max-width: 1478px;
+    margin: 0 auto;
+}
 .title-back {
     margin-left: 10%;
     margin-bottom: 20px;
