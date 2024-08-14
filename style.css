@@ -415,6 +415,7 @@ h3 {
 }
 
 .harchi {
+    visibility: hidden;
     background-color: #fafaf9;
     position: absolute;
     top: 1887px;
